@@ -105,7 +105,7 @@ const Home = () => {
         </div>
 
         <footer>
-            <h4>Built with 💛 by <a href="https://www.linkedin.com/in/aditya-prakash-pandewa-b3628718b/">Aditya</a></h4>
+            <h4>Built with 💛 by <a href="#">Bring A Change</a></h4>
         </footer>
     </div>
   )
